@@ -1,0 +1,6 @@
+name: AutoEnchant
+version: 1.0
+main: com.autoenchant.AutoEnchant
+api-version: 1.21
+author: AutoEnchant
+description: Automatically enchants pickaxes and axes with Efficiency 3 and Fortune 1 on craft or pickup.
